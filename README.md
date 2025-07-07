@@ -1,2 +1,1 @@
-
-dapper-frangipane-1763e6.netlify.app
+https://dapper-frangipane-1763e6.netlify.app/

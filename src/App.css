@@ -1,0 +1,139 @@
+.box{
+  margin: 10px;
+  background-color: black;
+  color: white;
+ margin-bottom: 20px;
+}
+.uiimage{
+display: inline;
+vertical-align: middle;
+
+}
+.name{
+  display: inline;
+  vertical-align: middle;
+}
+.search{
+  margin-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  size: 80px;
+  width: 150px;
+    border-radius: 10px;
+    border-style: solid;
+}
+.search::placeholder{
+  font-size: large;
+  display: inline;
+}
+.signin{
+ border-radius: 5%;
+ border-color: black;
+ font-size: large;
+ margin-bottom: 30px;
+ padding-left: 5px;
+}
+.signin>img{
+  vertical-align: middle;
+}
+.signin:hover{
+color: red;
+
+}
+
+.dropdown{
+   margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: large;
+  color:black;
+  size: 50px;
+  border-color: white;
+  width: 150px;
+}
+.support{
+  margin-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: large;
+  color:black;
+  size: 50px;
+  border-color: white;
+  width: 150px;
+  background-color: white;
+  border: none;
+}
+.support:hover{
+  color: blue;
+ 
+}
+.signimage{
+  vertical-align: middle;
+  height: 20px;
+  width: 20px;
+  margin-right: 0px;
+  padding-right: 10px;
+}
+.cart{
+  display: inline;
+vertical-align: middle;
+padding-left: 60px;
+}
+.logo{
+  vertical-align:middle;
+  height: 50px;
+  width: 50px;
+  padding-top: 5px;
+}
+.logo1{
+  vertical-align:bottom;
+  height: 40px;
+  width: 40px;
+}
+.logo2{
+  vertical-align:middle;
+  height: 30px;
+  width: 30px;
+}
+.logo3{
+  vertical-align:middle;
+  height: 30px;
+  width: 30px;
+}
+.video{
+  width:1000px;
+  display: block;
+  width: 80%;
+}
+.container {
+   display: grid;
+  grid-template-columns: repeat(3,1fr);/* or space-around / center */
+  gap: 16px; /* space between containers */
+  margin-left: 8%;
+  align-items: center;
+  width: 90%;
+}
+
+.s{
+  width: 100%;
+  height: 80%;
+  background-color: rgb(59, 197, 243);
+}
+
+.container img {
+  width: 90%;
+  height: 220px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+
+.footer{
+  background-color:rgb(25, 171, 219);
+  margin-bottom: 20px;
+  color: black;
+}

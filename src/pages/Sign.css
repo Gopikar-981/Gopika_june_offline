@@ -1,0 +1,69 @@
+.email{
+    border-radius: 20px;
+    border:solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.con{
+   border-radius: 20px;
+    border:solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px; 
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    vertical-align: middle;
+    
+}
+.con1{
+border-radius: 20px;
+    border:solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px; 
+    padding-right: 60px;
+    background-color:white;
+    color:black;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+.con2{
+    border-radius: 20px;
+    border:solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px; 
+    padding-right: 60px;
+    background-color:white;
+    color:black;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+.con3{
+    border-radius: 20px;
+    border:solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px; 
+    padding-right: 50px;
+    background-color:white;
+    color:black;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+.i1{
+    vertical-align: middle;
+}
+.i2{
+    vertical-align: middle;
+}
+.i3{
+    vertical-align: middle;
+}
+.account{
+   color: rgb(15, 116, 139);
+}
